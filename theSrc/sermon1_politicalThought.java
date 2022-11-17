@@ -1,8 +1,8 @@
-public class politicalThought {
+public class sermon1_politicalThought {
 
   public static void main(String args[]){
     
-    boolean isSocialist = false
+    boolean isSocialist = false;
     boolean isCapitalist = true;
     
     // What is the best ideal system to govern society
